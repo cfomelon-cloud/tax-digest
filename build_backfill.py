@@ -133,7 +133,7 @@ EDITIONS = [
  {
   "date":"2026-07-24",
   "headline":"China brings offshore trusts into income tax (20%); US QDOT technical fix; Australia estate-relevant drafts",
-  "blurb":"China's MOF/STA clarify a 20% individual income tax on residents' offshore-trust income with a 90-day disclosure window — the week's biggest private-client move. Plus a US QDOT regulation correction and Australian estate/family-law drafts.",
+  "blurb":"China's MOF/STA clarify a 20% individual income tax on residents' offshore-trust income with a 90-day disclosure window — the week's biggest private-client move. Plus UK firm commentary (RPC) on the Elborne IHT win and new Loan Charge settlement regulations, a US QDOT regulation correction, and Australian estate/family-law drafts.",
   "lead":"<strong>Top cross-border move.</strong> <strong>China</strong> has brought <strong>offshore trusts</strong> into individual income tax — Announcement 2026 No. 21 (MOF + State Taxation Administration) sets a <strong>20%</strong> charge on residents' trust income with a 90-day penalty-waiver disclosure window. A serious hit to mainland HNW families' offshore-trust succession structures and their HK/Singapore advisers.",
   "blocks":[
     {"flag":"🇨🇳","name":"China (Mainland)","badge":("hi","Material development"),"items":[
@@ -142,6 +142,12 @@ EDITIONS = [
        "sources":[("MOF / State Taxation Administration announcement, via Xinhua (official)","https://english.news.cn/20260724/b4210103695a49b89ab6178813f71721/c.html"),("State Taxation Administration — full text (chinatax.gov.cn)","https://jiangsu.chinatax.gov.cn/art/2026/7/24/art_23636_13143.html"),("Bloomberg","https://www.bloomberg.com/news/articles/2026-07-24/china-targets-offshore-trusts-in-sweeping-tax-clampdown")],
        "adviser":"Closes a core succession-planning route for mainland HNW families and extends the CRS/offshore-income enforcement drive. Affected clients should use the 90-day disclosure window rather than wait for an STA notice, and revisit offshore-trust settlor status, distribution timing and the three-year threshold. HK and Singapore advisers serving mainland families should expect restructuring queries and tighter source-of-wealth scrutiny.",
        "firm":"<strong>Firm &amp; professional commentary:</strong> As at publication, dedicated big-4 / private-client law-firm client alerts (Withers, KPMG, Baker McKenzie, Zhong Lun, Han Kun) had not yet been indexed within the window; these typically follow within days and will be captured as they appear."},
+    ]},
+    {"flag":"🇬🇧","name":"United Kingdom","badge":("mod","Firm commentary"),"items":[
+      {"tag":("c","Confirmed"),
+       "body":"<strong>Firm briefing (RPC): Elborne IHT win and new Loan Charge settlement regulations.</strong> RPC's weekly private-client briefing covers the Court of Appeal's <em>Elborne v HMRC</em> decision (13 Jul) upholding a pre-2006 'home loan / double trust' IHT scheme — the trustees' promissory-note liability reduces the trust property's value; HMRC may seek a Supreme Court appeal; the outcome could differ today under DOTAS/GAAR — and the new <strong>Loan Charge settlement scheme regulations</strong> (made 14 Jul, effective 5 Aug 2026 under Finance Act 2026 s.25), which include IHT relief where certain unpaid IHT ceases to be payable within three months of a settlement offer.",
+       "sources":[("RPC — Money Covered: The Week That Was (24 Jul)","https://www.rpclegal.com/thinking/professional-and-financial-risks/money-covered-the-week-that-was-24-july-2026/")],
+       "adviser":"For clients with legacy home-loan IHT structures, Elborne is helpful but fact-specific authority (and may head to the Supreme Court); for those exposed to the Loan Charge, the settlement window and its IHT relief are actionable now.","firm":None},
     ]},
     {"flag":"🇺🇸","name":"United States","badge":("low","Technical"),"items":[
       {"tag":("c","Confirmed"),
