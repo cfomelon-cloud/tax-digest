@@ -1,5 +1,5 @@
 {
-  "_comment": "Ledger of items already covered in past editions, to prevent repeats. Each key is a canonical source URL (or a short lowercased slug where no URL). The daily task loads this, excludes any candidate whose key is already present, then appends newly-covered keys. Seeded 2026-07-26 with the launch edition's items.",
+  "_comment": "Ledger of items already covered in past editions, to prevent repeats. Each key is a canonical source URL (or a short lowercased slug where no URL). The daily task loads this, excludes any candidate whose key is already present, then appends newly-covered keys. Seeded 2026-07-26.",
   "keys": [
     "cityam.com/healey-faces-22bn-black-hole-after-spending-pledges",
     "bloomberg.com/news/articles/2026-07-22/burnham-walks-back-suggestion-he-ll-lift-uk-income-tax-threshold",
@@ -26,6 +26,10 @@
     "canada.ca/en/department-finance/news/2025/01/capital-gains-inclusion-rate-deferral",
     "mcmillan.ca/insights/publications/budget-2025-inefficient-underused-housing-tax-eliminated",
     "dot.gov.tw/eng/singlehtml/en_124",
-    "mof.gov.tw/eng/singlehtml/taiwan-cfc-rules"
+    "mof.gov.tw/eng/singlehtml/taiwan-cfc-rules",
+    "english.news.cn/20260724/b4210103695a49b89ab6178813f71721/c.html",
+    "caproasia.com/2026/07/25/china-government-issues-detailed-rules-on-personal-tax-for-offshore-trusts",
+    "finance.yahoo.com/economy/policy/articles/china-targets-offshore-trusts-tax",
+    "bloomberg.com/news/articles/2026-07-24/china-targets-offshore-trusts-in-sweeping-tax-clampdown"
   ]
 }
