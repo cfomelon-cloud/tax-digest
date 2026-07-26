@@ -1,0 +1,31 @@
+{
+  "_comment": "Ledger of items already covered in past editions, to prevent repeats. Each key is a canonical source URL (or a short lowercased slug where no URL). The daily task loads this, excludes any candidate whose key is already present, then appends newly-covered keys. Seeded 2026-07-26 with the launch edition's items.",
+  "keys": [
+    "cityam.com/healey-faces-22bn-black-hole-after-spending-pledges",
+    "bloomberg.com/news/articles/2026-07-22/burnham-walks-back-suggestion-he-ll-lift-uk-income-tax-threshold",
+    "gov.uk/government/publications/inheritance-tax-on-pensions-technical-note",
+    "commonslibrary.parliament.uk/research-briefings/cbp-10934",
+    "morganlewis.com/pubs/2025/08/estate-tax-alert-new-15-million-federal-exemption-becomes-law",
+    "irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026",
+    "supremecourt.gov/opinions/23pdf/23-146_i42j.pdf",
+    "caixinglobal.com/2025-07-22/chinese-investors-face-20-tax-bill-on-offshore-trading-profits",
+    "china-briefing.com/news/china-crs-tax-enforcement-compliance-tips",
+    "woodburnglobal.com/post/foreign-talent-working-in-gba-will-enjoy-income-tax-benefits-until-2027",
+    "kpmg.com/cn/en/insights/2026/06/tax-alert-11-hk-hong-kong-sar-family-office",
+    "dlapiper.com/en/insights/publications/2026/03/key-tax-measures-2026-2027-hong-kong-budget",
+    "familyofficehk.gov.hk/en/new-capital-investment-entrant-scheme",
+    "aseanbriefing.com/news/revised-tax-incentive-schemes-for-funds-in-singapore",
+    "redbrick.sg/blog/absd-singapore",
+    "alvarezandmarsal.com/thought-leadership/singapore-budget-2026-key-tax-announcements",
+    "imidaily.com/europe/its-official-italy-raises-its-flat-tax-to-e300000",
+    "taxsummaries.pwc.com/italy/individual/other-taxes",
+    "caiadoguerreiro.com/en/portugals-2026-state-budget-proposal",
+    "pwc.pt/en/services/tax/individuals-taxation/moving-to-portugal-tax-incentives",
+    "williambuck.com/news/in/general/revamped-division-296-tax-pushed-back-to-1-july-2026",
+    "bartier.com.au/insights/articles/expats-and-non-residents-beware-changes-to-australian",
+    "canada.ca/en/department-finance/news/2025/01/capital-gains-inclusion-rate-deferral",
+    "mcmillan.ca/insights/publications/budget-2025-inefficient-underused-housing-tax-eliminated",
+    "dot.gov.tw/eng/singlehtml/en_124",
+    "mof.gov.tw/eng/singlehtml/taiwan-cfc-rules"
+  ]
+}
