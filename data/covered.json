@@ -2,6 +2,7 @@
   "_comment": "Ledger of items already covered in past editions, to prevent repeats. Each key is a canonical source URL (or a short lowercased slug where no URL). The daily task loads this, excludes any candidate whose key is already present, then appends newly-covered keys. Seeded 2026-07-26.",
   "keys": [
     "alvarezandmarsal.com/thought-leadership/singapore-budget-2026-key-tax-announcements",
+    "aol.com/articles/families-defeat-hmrc-landmark-inheritance-123155000.html",
     "aseanbriefing.com/news/revised-tax-incentive-schemes-for-funds-in-singapore",
     "bartier.com.au/insights/articles/expats-and-non-residents-beware-changes-to-australian",
     "bloomberg.com/news/articles/2026-07-19/singapore-weighs-hedge-fund-tax-cuts-to-be-more-competitive-ft",
@@ -29,6 +30,7 @@
     "gov.uk/government/news/ministerial-appointments-july-2026",
     "gov.uk/government/publications/inheritance-tax-on-pensions-technical-note",
     "gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+    "iclg.com/news/court-of-appeal-upholds-historic-inheritance-tax-planning-scheme",
     "ifpa.com.au/24-july-2026",
     "imidaily.com/europe/its-official-italy-raises-its-flat-tax-to-e300000",
     "irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026",
@@ -39,6 +41,8 @@
     "mof.gov.tw/eng/singlehtml/taiwan-cfc-rules",
     "moneysavingexpert.com/news/2026/07/electricity-bills-vat-cut-martin-lewis-analysis",
     "morganlewis.com/pubs/2025/08/estate-tax-alert-new-15-million-federal-exemption-becomes-law",
+    "paminsight.com/epc/article/the-week-on-eprivateclient-hcr-law-orwins-rathbones-and-more",
+    "professionaladviser.com/news/4533115/court-appeal-backs-taxpayers-landmark-home-loan-scheme-iht-ruling",
     "professionaladviser.com/news/4533237/burnham-income-tax-allowance-increase-suggestion-reports",
     "pwc.pt/en/services/tax/individuals-taxation/moving-to-portugal-tax-incentives",
     "redbrick.sg/blog/absd-singapore",
@@ -47,6 +51,7 @@
     "supremecourt.gov/opinions/23pdf/23-146_i42j.pdf",
     "taxpolicy.org.uk/2026/07/25/scotland-48p-top-rate-laffer-curve",
     "taxsummaries.pwc.com/italy/individual/other-taxes",
+    "theedgemalaysia.com/node/811956",
     "williambuck.com/news/in/general/revamped-division-296-tax-pushed-back-to-1-july-2026",
     "woodburnglobal.com/post/foreign-talent-working-in-gba-will-enjoy-income-tax-benefits-until-2027",
     "yuantalks.com/china-tightens-offshore-trust-tax-rules-introducing-look-through-taxation-for-cross-border-wealth-structures"
