@@ -44,3 +44,17 @@ article li{margin:6px 0;font-size:14.5px}
 .read-box{background:#fafafa;border:1px solid #eee;border-radius:5px;padding:9px 12px;font-size:13.5px;margin:8px 0}
 .foot{color:var(--muted);font-size:12px;margin-top:28px;border-top:1px solid var(--line);padding-top:12px}
 footer.site{border-top:1px solid var(--line);background:#fff;padding:16px 0;color:var(--muted);font-size:12.5px}
+/* language toggle */
+header.site .toprow{display:flex;justify-content:space-between;align-items:flex-start;gap:14px}
+.lang-btn{flex:none;background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.4);border-radius:6px;padding:5px 12px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap}
+.lang-btn:hover{background:rgba(255,255,255,.3)}
+/* bilingual show/hide — English default; html.lang-zh shows Traditional Chinese */
+.zh{display:none}
+html.lang-zh .en{display:none}
+html.lang-zh .zh{display:block}
+span.zh,.zh-i{display:none}
+span.en,.en-i{display:inline}
+html.lang-zh span.en,html.lang-zh .en-i{display:none}
+html.lang-zh span.zh,html.lang-zh .zh-i{display:inline}
+:lang(zh-Hant){line-height:1.75}
+html.lang-zh article li,html.lang-zh .read-box,html.lang-zh .lead,html.lang-zh .legend{line-height:1.75}
