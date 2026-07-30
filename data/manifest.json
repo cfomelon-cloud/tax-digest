@@ -1,62 +1,74 @@
 [
- {
-  "date": "2026-07-28",
-  "file": "digests/2026-07-28.html",
-  "headline": "China offshore-trust rules: Dentons firm alert + official MOF Q&A and Caixin analysis (expanded on demand)",
-  "blurb": "Expanded on demand under the new inclusive criteria: adds the MOF/STA press Q&A and Caixin's analysis alongside the first firm alert (Dentons) on China's 20% offshore-trust income tax. Priority jurisdictions otherwise light in-window."
- },
- {
-  "date": "2026-07-27",
-  "file": "digests/2026-07-27.html",
-  "headline": "UK CEOs press Burnham to cut taxes (added on-demand); China rules see continued HK-focused coverage",
-  "blurb": "Automated morning edition refreshed on demand at 17:53 BST: adds one genuinely new item — UK business leaders urging PM Burnham to cut taxes (Bloomberg, 27 Jul). SCMP's Hong-Kong-focused China piece is continued coverage of the 24 Jul rules, not a new development."
- },
- {
-  "date": "2026-07-26",
-  "file": "digests/2026-07-26.html",
-  "headline": "Quiet day — on-demand refresh (20:48 BST) confirms no new items beyond earlier editions",
-  "blurb": "Manually re-scanned on demand: nothing genuinely new in the last 48h beyond what earlier editions carry. China's offshore-trust rules (24 Jul) and the UK change-of-government thread (20–22 Jul) sit in their dated editions and on new story-tracker pages."
- },
- {
-  "date": "2026-07-25",
-  "file": "digests/2026-07-25.html",
-  "headline": "Quiet day — Neidle questions whether Scotland's 48p top rate raises anything",
-  "blurb": "A light day. Tax Policy Associates (Dan Neidle) argues Scotland's 48% additional rate may sit past the peak of the Laffer curve, raising little net revenue once migration and income-shifting are counted. Priority jurisdictions otherwise quiet."
- },
- {
-  "date": "2026-07-24",
-  "file": "digests/2026-07-24.html",
-  "headline": "China brings offshore trusts into income tax (20%); US QDOT technical fix; Australia estate-relevant drafts",
-  "blurb": "China's MOF/STA clarify a 20% individual income tax on residents' offshore-trust income with a 90-day disclosure window — the week's biggest private-client move. Plus UK firm commentary (RPC) on the Elborne IHT win and new Loan Charge settlement regulations, a US QDOT regulation correction, and Australian estate/family-law drafts."
- },
- {
-  "date": "2026-07-23",
-  "file": "digests/2026-07-23.html",
-  "headline": "Quiet day — Canada opens consultation on draft tax legislation",
-  "blurb": "A light day. Canada's Finance Department opened consultation on draft legislative proposals (FAPI, Disability Tax Credit and technical measures); limited direct private-client content. Priority jurisdictions otherwise quiet."
- },
- {
-  "date": "2026-07-22",
-  "file": "digests/2026-07-22.html",
-  "headline": "Burnham walks back personal-allowance unfreeze; ~£22bn gap points to autumn tax rises",
-  "blurb": "UK: Burnham rows back on lifting the frozen £12,570 personal allowance; ~£22bn of unfunded pledges fuels 'guaranteed' autumn tax-rise talk. Industry warns MAS that managers eye a Hong Kong move."
- },
- {
-  "date": "2026-07-21",
-  "file": "digests/2026-07-21.html",
-  "headline": "Burnham scraps electricity VAT for six months; HMRC IHT receipts hit record £2.3bn",
-  "blurb": "UK: Burnham removes VAT on domestic electricity for six months from October; HMRC inheritance-tax receipts reach a record £2.3bn for the quarter as frozen bands bite."
- },
- {
-  "date": "2026-07-20",
-  "file": "digests/2026-07-20.html",
-  "headline": "UK change of government: Burnham PM, Healey Chancellor; gilts sell off",
-  "blurb": "Andy Burnham becomes PM and names John Healey Chancellor (replacing Starmer/Reeves); gilts sell off on 'fiscal flexibility' remarks. Plus a US Tax Court QTIP valuation ruling and firm commentary on the UK Elborne IHT case."
- },
- {
-  "date": "2026-07-19",
-  "file": "digests/2026-07-19.html",
-  "headline": "Singapore weighs fund-manager tax cuts to counter Hong Kong",
-  "blurb": "Quiet across most jurisdictions. Reports that MAS is reviewing Singapore's fund-manager tax concession to stay competitive with Hong Kong's proposed carried-interest package."
- }
+  {
+    "date": "2026-07-30",
+    "file": "digests/2026-07-30.html",
+    "headline": "China offshore-trust tax, afternoon refresh: Conyers trustee-side alert + Sina Finance founder-exposure detail (Lei Bin US$2bn cash-out, ~¥150bn deferred)",
+    "blurb": "Afternoon edition. Three new in-window items on Announcement 2026 No.21: Conyers analyses trustee obligations and the death-of-settlor trigger; Sina Finance details Lei Bin's US$2bn Xiaomi cash-out running into the 20% charge and a founder-by-founder back-tax tally. UK/US/HK/SG quiet."
+  },
+  {
+    "date": "2026-07-29",
+    "file": "digests/2026-07-29.html",
+    "headline": "UK 'death tax' watch: Burnham's social-care statement lands with NO tax measures — funding parked with Casey commission",
+    "blurb": "Afternoon refresh. PM's 29 Jul statement announced no estate levy and ruled out income tax/VAT/NI; funding deferred to Baroness Casey's commission. Adds GOV.UK primary, City AM, ITV and Gravita firm analysis. China 20% offshore-trust covera"
+  },
+  {
+    "date": "2026-07-28",
+    "file": "digests/2026-07-28.html",
+    "headline": "China offshore-trust rules: Dentons firm alert + official MOF Q&A and Caixin analysis (expanded on demand)",
+    "blurb": "Expanded on demand under the new inclusive criteria: adds the MOF/STA press Q&A and Caixin's analysis alongside the first firm alert (Dentons) on China's 20% offshore-trust income tax. Priority jurisdictions otherwise light in-window."
+  },
+  {
+    "date": "2026-07-27",
+    "file": "digests/2026-07-27.html",
+    "headline": "UK CEOs press Burnham to cut taxes (added on-demand); China rules see continued HK-focused coverage",
+    "blurb": "Automated morning edition refreshed on demand at 17:53 BST: adds one genuinely new item — UK business leaders urging PM Burnham to cut taxes (Bloomberg, 27 Jul). SCMP's Hong-Kong-focused China piece is continued coverage of the 24 Jul rules, not a new development."
+  },
+  {
+    "date": "2026-07-26",
+    "file": "digests/2026-07-26.html",
+    "headline": "Quiet day — on-demand refresh (20:48 BST) confirms no new items beyond earlier editions",
+    "blurb": "Manually re-scanned on demand: nothing genuinely new in the last 48h beyond what earlier editions carry. China's offshore-trust rules (24 Jul) and the UK change-of-government thread (20–22 Jul) sit in their dated editions and on new story-tracker pages."
+  },
+  {
+    "date": "2026-07-25",
+    "file": "digests/2026-07-25.html",
+    "headline": "Quiet day — Neidle questions whether Scotland's 48p top rate raises anything",
+    "blurb": "A light day. Tax Policy Associates (Dan Neidle) argues Scotland's 48% additional rate may sit past the peak of the Laffer curve, raising little net revenue once migration and income-shifting are counted. Priority jurisdictions otherwise quiet."
+  },
+  {
+    "date": "2026-07-24",
+    "file": "digests/2026-07-24.html",
+    "headline": "China brings offshore trusts into income tax (20%); US QDOT technical fix; Australia estate-relevant drafts",
+    "blurb": "China's MOF/STA clarify a 20% individual income tax on residents' offshore-trust income with a 90-day disclosure window — the week's biggest private-client move. Plus UK firm commentary (RPC) on the Elborne IHT win and new Loan Charge settlement regulations, a US QDOT regulation correction, and Australian estate/family-law drafts."
+  },
+  {
+    "date": "2026-07-23",
+    "file": "digests/2026-07-23.html",
+    "headline": "Quiet day — Canada opens consultation on draft tax legislation",
+    "blurb": "A light day. Canada's Finance Department opened consultation on draft legislative proposals (FAPI, Disability Tax Credit and technical measures); limited direct private-client content. Priority jurisdictions otherwise quiet."
+  },
+  {
+    "date": "2026-07-22",
+    "file": "digests/2026-07-22.html",
+    "headline": "Burnham walks back personal-allowance unfreeze; ~£22bn gap points to autumn tax rises",
+    "blurb": "UK: Burnham rows back on lifting the frozen £12,570 personal allowance; ~£22bn of unfunded pledges fuels 'guaranteed' autumn tax-rise talk. Industry warns MAS that managers eye a Hong Kong move."
+  },
+  {
+    "date": "2026-07-21",
+    "file": "digests/2026-07-21.html",
+    "headline": "Burnham scraps electricity VAT for six months; HMRC IHT receipts hit record £2.3bn",
+    "blurb": "UK: Burnham removes VAT on domestic electricity for six months from October; HMRC inheritance-tax receipts reach a record £2.3bn for the quarter as frozen bands bite."
+  },
+  {
+    "date": "2026-07-20",
+    "file": "digests/2026-07-20.html",
+    "headline": "UK change of government: Burnham PM, Healey Chancellor; gilts sell off",
+    "blurb": "Andy Burnham becomes PM and names John Healey Chancellor (replacing Starmer/Reeves); gilts sell off on 'fiscal flexibility' remarks. Plus a US Tax Court QTIP valuation ruling and firm commentary on the UK Elborne IHT case."
+  },
+  {
+    "date": "2026-07-19",
+    "file": "digests/2026-07-19.html",
+    "headline": "Singapore weighs fund-manager tax cuts to counter Hong Kong",
+    "blurb": "Quiet across most jurisdictions. Reports that MAS is reviewing Singapore's fund-manager tax concession to stay competitive with Hong Kong's proposed carried-interest package."
+  }
 ]
