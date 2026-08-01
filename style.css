@@ -48,6 +48,7 @@ footer.site{border-top:1px solid var(--line);background:#fff;padding:16px 0;colo
 header.site .toprow{display:flex;justify-content:space-between;align-items:flex-start;gap:14px}
 .lang-btn{flex:none;background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.4);border-radius:6px;padding:5px 12px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap}
 .lang-btn:hover{background:rgba(255,255,255,.3)}
+.ctrls{display:flex;gap:8px;flex:none;flex-wrap:wrap;justify-content:flex-end}
 /* bilingual show/hide — English default; html.lang-zh shows Traditional Chinese */
 .zh{display:none}
 html.lang-zh .en{display:none}

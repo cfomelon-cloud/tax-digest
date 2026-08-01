@@ -74,7 +74,7 @@ def main() -> None:
 <p class="en">Cross-border tax updates for high-net-worth individuals, families &amp; their advisers</p>
 <p class="zh" lang="zh-Hant">為高淨值人士、家族及其顧問提供的跨境稅務資訊</p>
 <div class="meta">{meta}</div></div>
-<button id="langtoggle" class="lang-btn" onclick="toggleLang()">繁中</button>
+<div class="ctrls"><button id="ttsbtn" class="lang-btn" onclick="readAloud()">🔊 Read</button><button id="langtoggle" class="lang-btn" onclick="toggleLang()">繁中</button></div>
 </div></div></header>
 
 <main><div class="wrap">
@@ -93,11 +93,7 @@ def main() -> None:
 </div></main>
 
 <footer class="site"><div class="wrap">Private Client Tax Digest · {foot}</div></footer>
-<script>
-function toggleLang(){{var h=document.documentElement,zh=!h.classList.contains('lang-zh');h.classList.toggle('lang-zh',zh);try{{localStorage.setItem('pctd-lang',zh?'zh':'en');}}catch(e){{}}setLangBtn();}}
-function setLangBtn(){{var b=document.getElementById('langtoggle');if(b)b.textContent=document.documentElement.classList.contains('lang-zh')?'EN':'繁中';}}
-setLangBtn();
-</script>
+<script src="app.js"></script>
 </body>
 </html>
 """.format(
